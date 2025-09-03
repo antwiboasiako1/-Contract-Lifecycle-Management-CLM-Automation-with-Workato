@@ -64,6 +64,9 @@ Watch Trello, Gmail, and Slack update automatically.
 
 ✅ Gmail Notification
 
+✅Contract sheet sample
+
+
 (Screenshots included in /screenshots folder.)
 
 🔮 Future Improvements
